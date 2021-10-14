@@ -8,6 +8,7 @@ public class HelloWorld {
         List<String> objects = new ArrayList<String>();
         objects.add("咪咕视频");
         objects.add("咪咕阅读");
+        objects.add("咪咕动漫");
         System.out.println(objects);
     }
 }
