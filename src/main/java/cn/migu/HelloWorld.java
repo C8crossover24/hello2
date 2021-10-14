@@ -11,6 +11,7 @@ public class HelloWorld {
         objects.add("咪咕动漫");
         objects.add("咪咕互娱");
         objects.add("咪咕互娱666");
+        objects.add("咪咕互娱master");
         System.out.println(objects);
     }
 }
