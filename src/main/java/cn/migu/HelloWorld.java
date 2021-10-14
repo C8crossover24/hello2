@@ -13,6 +13,7 @@ public class HelloWorld {
         objects.add("咪咕互娱666");
         objects.add("咪咕互娱master");
         objects.add("咪咕互娱hot-fix");
+        objects.add("咪咕互娱push-test");
         System.out.println(objects);
     }
 }
