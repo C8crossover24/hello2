@@ -9,6 +9,7 @@ public class HelloWorld {
         objects.add("咪咕视频");
         objects.add("咪咕阅读");
         objects.add("咪咕动漫");
+        objects.add("咪咕互娱");
         System.out.println(objects);
     }
 }
